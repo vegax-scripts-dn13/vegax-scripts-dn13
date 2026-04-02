@@ -1,4 +1,4 @@
-
+Script-Ware Executor — #1 roblox script executor with undetected auto-execute and infinite scripts for 2026 Script-Ware is an undetected Roblox executor designed for PC users, offering a wide range of features including auto-execute, infinite scripts, and a stable performance, making it ideal for both beginners and advanced users.
 
 
 ---
